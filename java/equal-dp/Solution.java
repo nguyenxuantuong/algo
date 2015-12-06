@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/equal
 import java.util.*;
 
 public class Solution {
